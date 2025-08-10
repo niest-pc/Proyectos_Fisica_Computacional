@@ -7,7 +7,6 @@ Proyectos realizados durante el curso de Física Computacional, segundo semestre
 * Determinación numérica del ángulo con el cual se obtiene el alcance máximo.
 
 ## 2. Cálculo de la precesión y el perihelio de Mercurio utilizando el método de Runge-Kutta
-**Objetivos**
 * Creación de una función de Runge-Kutta utilizando la fuerza total que actúa sobre Mercurio.
 * Cálculo de la órbita de Mercurio.
 * Determinación de la cantidad de precesión del perihelio de Mercurio para distintos valores de α.
