@@ -1,5 +1,7 @@
 # Proyectos Fisica Computacional
-Proyectos realizados durante el curso de Física Computacional, segundo semestre 2024. Escuela de Ciencias Físicas y Matemáticas. Universidad de San Carlos de Guatemala.
+Proyectos realizados durante el curso de Física Computacional, segundo semestre 2024. 
+Escuela de Ciencias Físicas y Matemáticas. 
+Universidad de San Carlos de Guatemala.
 
 ## 1. Cálculo del Movimiento de un proyectil utilizando el método de Euler
 * Cálculo de la trayectoria de un proyectil con y sin resistencia del aire.
